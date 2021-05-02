@@ -8,15 +8,14 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-Licença">Licença</a>
+  <a href="#man-Autor">Android</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licença">IOS</a>
 </p>
 
 
 
-<img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image1.JPG" />
-<img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image2.JPG" />
-<img width="600px" src="https://github.com/CrisPer12/moveYouApp/blob/main/image3.JPG" />
+<img width="600px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20android.JPG" />
+<img width="600px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20iphone.png" />
 
 ## :page_facing_up: Descrição
 O plantmanager tem como objetivo ajudar as pessoas a se lembrarem de regar suas plantas app desenvolvido durante a NLW#5.

@@ -26,7 +26,7 @@ O plantmanager tem como objetivo ajudar as pessoas a se lembrarem de regar suas 
 ## :art: Layout
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate?node-id=0%3A1">desse link<a>.
   
- ## :android_func: Android
+ ## Android
 
 <div style="display: flex; flex-direction: 'row';">
     <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/plants%20android.JPG" />

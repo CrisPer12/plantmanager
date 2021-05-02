@@ -13,9 +13,12 @@
 </p>
 
 
+### Home App
+<div style="display: flex; flex-direction: 'row';">
+    <img width="180px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20android.JPG" />
+    <img width="180px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20iphone.png" />
+</div>
 
-<img width="600px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20android.JPG" />
-<img width="600px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20iphone.png" />
 
 ## :page_facing_up: Descrição
 O plantmanager tem como objetivo ajudar as pessoas a se lembrarem de regar suas plantas app desenvolvido durante a NLW#5.

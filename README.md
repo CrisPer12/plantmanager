@@ -35,6 +35,15 @@ Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atrav�
                                                                                                   
 </div>
 
+## IOS
+
+<div style="display: flex; flex-direction: 'row';">
+    <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/list%20plants%20IOS.png" />
+    <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/savePlant%20IOS.png"  />
+    <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/iphone.gif"  />
+                                                                                                  
+</div>
+
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
 

@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [StyledComponents](https://styled-components.com/)
--[Json-Server](https://github.com/typicode/json-server)
+- [Json-Server](https://github.com/typicode/json-server)
 
 ## :clipboard: Funcionalidades
 - [x] Criação de perfil.

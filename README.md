@@ -58,6 +58,12 @@ $ cd plantmanager
 # Instale as dependências
 $ npm install 
 
+# Instale o expo
+$ npm install --global expo-cli
+
+#Instale o Json-Server
+$ npm install -g json-server
+
 # Execute aplicação
 $ expo start
 

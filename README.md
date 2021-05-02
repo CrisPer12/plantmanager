@@ -8,8 +8,8 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#man-Autor">Android</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-Licença">IOS</a>
+  <a href="#androi">Android</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ios">IOS</a>
 </p>
 
 
@@ -17,6 +17,15 @@
 <div style="display: flex; flex-direction: 'row';">
     <img width="180px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20android.JPG" />
     <img width="180px" src="https://github.com/CrisPer12/plantmanager/blob/main/home%20iphone.png" />
+</div>
+
+## :android: Android
+
+<div style="display: flex; flex-direction: 'row';">
+    <img src="https://github.com/CrisPer12/plantmanager/blob/main/plants%20android.JPG width="180">
+    <img src="https://github.com/CrisPer12/plantmanager/blob/main/save%20android.JPG width="180">
+  
+                                                                                                  
 </div>
 
 

@@ -30,7 +30,7 @@ VocÃª pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravÃ
 
 <div style="display: flex; flex-direction: 'row';">
     <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/plants%20android.JPG" />
-    <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/save%20android.JPG  /> 
+    <img width="180" src="https://github.com/CrisPer12/plantmanager/blob/main/save%20android.JPG"  /> 
                                                                                                   
 </div>
 

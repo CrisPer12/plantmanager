@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400px" height="400px" src="https://github.com/CrisPer12/plantmanager/blob/main/assets/splash.png" />
+  <img width="400px" src="https://github.com/franciscoarmando63/plantmanager/blob/main/readmeScreens/icone.png" />
   <br />
 </h1>
 <p align="center">
